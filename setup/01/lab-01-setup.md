@@ -14,7 +14,7 @@ To complete this lab, you will need to deploy an Azure Databricks workspace in y
 
 1. Click the following button to open the ARM template in the Azure Portal.
 
-   [![Deploy To Azure](https://aka.ms/deploytoazurebutton)(https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnitin809%2Farmtemplate%2Fmain%2Fazuredeploy.json)
+   [![Deploy To Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnitin809%2Farmtemplate%2Fmain%2Fazuredeploy.json)
 
 1. Provide the required values to create your Azure Databricks workspace:
 
